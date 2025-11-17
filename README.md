@@ -1,2 +1,2 @@
-# Distressed-Debt
-This repository is created to show the modelling work I have done for my future employer in the distressed debt space. It will eventually include a 13-Week CF Model, a Debt Waterfall model as well as a simple, three statement operating model. All content uploaded here is using public records only. 
+# IB_modelling
+This repository is created to show the modelling work I intend to complete for IB related tasks, such as LBOs, Comparable Companies Analysis, Sell-Side and Buy-Side M&A and the IPO process. It will also include modelling related to distressed debt investing such as 13-Week CF and waterfall models. Every information herein is derived from public sources. Any valutation should not be construed as investment advice since this is for demonstration purposes only. 
